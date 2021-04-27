@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='android.view.View void autofill(android.util.SparseArray&lt;android.view.autofill.AutofillValue&gt;) 0'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
